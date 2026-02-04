@@ -1,23 +1,25 @@
-# Preparation-phase-one
+# Preparation Phase One
 
-Ini adalah repository untuk murid yang ingin melanjutkan ke tahap *Phase 1*. Persyaratan untuk melanjutkan ke tahap tersebut adalah harus mengerjakan setiap Quiz yang ada. dan bila kamu sudah mengerjakannya. jangan lupa buat *Pull Request* agar kami bisa mereview code kalian.
+Ini adalah repository untuk murid yang ingin melanjutkan ke tahap **Phase 1 (Tower of Shadows)**. 🧙‍♂️
+
+Persyaratan untuk melanjutkan ke tahap tersebut adalah harus mengerjakan setiap Quiz yang ada. Dan bila kamu sudah mengerjakannya, jangan lupa buat **Pull Request** agar kami bisa mereview code kalian.
 
 ## Cara Menggunakan Repo Ini
 
-1. **Mulailah dengan membaca materi yang tersedia di setiap folder.** Setiap topik disertai dengan penjelasan mendetail dan contoh kode yang bisa Anda pelajari.
-2. **Coba tulis kode Anda sendiri!** Setiap bagian menyertakan latihan praktis yang bisa Anda coba untuk menguji pemahaman Anda.
-3. **Bergabunglah dengan komunitas.** Jangan ragu untuk bertanya atau berdiskusi dengan sesama pemula di bagian issues atau melalui pull requests.
+1. **Mulailah dengan membaca materi yang tersedia di setiap folder.** Setiap topik disertai dengan penjelasan mendetail dan contoh kode yang bisa Kalian pelajari.
+2. **Coba tulis kode Kalian sendiri!** Setiap bagian menyertakan latihan praktis yang bisa Kalian coba untuk menguji pemahaman Kalian.
+3. **Bergabunglah dengan komunitas.** Jangan ragu untuk bertanya atau berdiskusi dengan sesama Etherean di bagian issues atau melalui pull requests.
 
 ## Study Materials
-- [Javascript ES6](https://github.com/RPN-Phase-0/Preparation-phase-one/blob/main/study-materials/Javascript-ES6.md)
-- [Website Development](https://github.com/RPN-Phase-0/Preparation-phase-one/blob/main/study-materials/Website-Development.md)
+- [Javascript ES6](./study-materials/Javascript-ES6.md)
+- [Website Development](./study-materials/Website-Development.md)
 
-## Logic Nolep (Quiz)
-- [ArrayDimension](https://github.com/RPN-Phase-0/Preparation-phase-one/tree/main/quiz/Quiz-Array-Dimension)
-- [FckingNumberPattern](https://github.com/RPN-Phase-0/Preparation-phase-one/tree/main/quiz/Quiz-Fcking-Number-Pattern)
-- [RecursiveIsYourFriend](https://github.com/RPN-Phase-0/Preparation-phase-one/tree/main/quiz/Quiz-Rekursif-is-your-friend)
-- [YouNeedToLikeObject](https://github.com/RPN-Phase-0/Preparation-phase-one/tree/main/quiz/Quiz-You-Need-to-Like-Object)
-- [Web Development](https://github.com/RPN-Phase-0/Preparation-phase-one/tree/main/quiz/Quiz-Web-Development)
+## Arcane Quest (Quiz)
+- [ArrayDimension](./quiz/Quiz-Array-Dimension/README.md)
+- [FckingNumberPattern](./quiz/Quiz-Fcking-Number-Pattern/README.md)
+- [RecursiveIsYourFriend](./quiz/Quiz-Rekursif-is-your-friend/README.md)
+- [YouNeedToLikeObject](./quiz/Quiz-You-Need-to-Like-Object/README.md)
+- [Web Development](./quiz/Quiz-Web-Development/README.md)
 
 ## Dukung Kami
 
@@ -25,5 +27,4 @@ Jika Kalian menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang 
 
 Selamat belajar dan selamat datang di dunia pemrograman! 🚀
 
-[Discord RPN](https://discord.gg/ufbRBRTKN8)
-
+[Discord ETHJKT](https://discord.gg/Bb7UF4vuK4)
